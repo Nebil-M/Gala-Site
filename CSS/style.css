@@ -1,0 +1,89 @@
+img{
+    max-width: 3%;
+    max-height: 3%;
+    position: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('../Images/background.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
+    color: #ffffff; 
+}
+
+h1, p {
+    color: #000; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem; 
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+
+
+ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+li
+{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+li a
+{
+    text-decoration: none;
+    color: #989191;
+    font-size: large;
+}
+
+li a:hover
+{
+    color: #d0caca;
+}
+
+
+
+.navbar
+{
+	padding-top: .5em;
+	padding-bottom: .5em;
+	border: 1px solid #a2a2a2;
+    border-radius: 5px;
+	background-color: #f4f4f4;
+	
+
+}
+
+.nav-contianer{
+    margin: 15px;
+    justify-content: left;
+
+}
+
+.nav-contianer a {
+
+    padding: 15px 20px;
+
+}
+
+.bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }
