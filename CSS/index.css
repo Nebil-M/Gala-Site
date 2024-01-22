@@ -15,10 +15,6 @@ p{
 
 a {
     font-size: 32px;
-
-    text-align: center;
-    padding-top: 10px;
-    margin-bottom: 10px;
-    float: center;
+    text-align: center; 
     text-decoration: none;
 }

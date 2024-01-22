@@ -1,3 +1,7 @@
+#rp{
+  padding: 20px;
+  margin-bottom: -20px;
+}
 
 h1 {
   font-size: 32px;
@@ -16,6 +20,7 @@ p{
 
 .register {
   margin: auto;
+  margin-bottok: 30px;
   width: 343px; 
   height: 343px; 
   border-radius: 8px/7px; 
