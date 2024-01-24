@@ -20,12 +20,13 @@ p{
 
 .register {
   margin: auto;
-  margin-bottok: 30px;
+  margin-bottom: 30px;
   width: 343px; 
   height: 343px; 
   border-radius: 8px/7px; 
   background-color: #ebebeb; 
   border: solid 1px #cbc9c9;
+  padding: 20px;
 }
 
 form{
